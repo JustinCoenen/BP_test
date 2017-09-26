@@ -32,3 +32,4 @@ print("Het aantal seconden is {0}.".format(seconds))
 #print("De aantal dagen zijn {0}. De aantal uren zijn {1}. Het aantal minuten zijn {2}. Het aantal seconden is {3}.".format(dagen, uren, minuten, seconden))
 
 test = "dit is een eerste wijziging"
+test2 = "dit is een tweede wijziging"
